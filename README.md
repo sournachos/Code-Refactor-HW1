@@ -1,5 +1,4 @@
 
-https://user-images.githubusercontent.com/80435061/111539825-56dc5580-873c-11eb-8799-1939f4587d81.mp4
 
 # Code-Refactor_HW1
 
