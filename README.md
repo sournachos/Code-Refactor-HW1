@@ -1,5 +1,4 @@
 
-https://user-images.githubusercontent.com/80435061/111539825-56dc5580-873c-11eb-8799-1939f4587d81.mp4
 
 # Code-Refactor_HW1
 
@@ -9,8 +8,9 @@ Code-Refactor_HW1 is an edited code following a practice ticket to improve acces
 
 https://sournachos.github.io/Code-Refactor-HW1/
 
+## Screenshot/GIF
 
-
+![Alt Text](https://im7.ezgif.com/tmp/ezgif-7-e39bb72a6be7.gif)
 ## Download
 Clone into your local computer through your command prompt using your SHH key with the line below.
 
