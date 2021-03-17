@@ -10,7 +10,7 @@ https://sournachos.github.io/Code-Refactor-HW1/
 
 ## Screenshot/GIF
 
-![Alt Text](https://im7.ezgif.com/tmp/ezgif-7-e39bb72a6be7.gif)
+![Caption](/assets/images/demo.gif)
 ## Download
 Clone into your local computer through your command prompt using your SHH key with the line below.
 
